@@ -1,0 +1,6 @@
+﻿  Point.cpp
+  Polygon-Calculator.cpp
+  Polygon.cpp
+C:\Users\fiooo\Desktop\polygon-field-calculator\Polygon-Calculator\Polygon.cpp(36,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Polygon-Calculator.vcxproj -> C:\Users\fiooo\Desktop\polygon-field-calculator\Polygon-Calculator\x64\Debug\Polygon-Calculator.exe
